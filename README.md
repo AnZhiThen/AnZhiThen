@@ -1,14 +1,14 @@
 
-Frontend Developer at [Acronis][acronis] enjoys 🕸️ webbing up web applications.
--🔧 Building my developer [portfolio][website]
--👨‍💻 Learning [React][react] and [Redux][redux]
--✨Favourite Tech: [VueJS][vuejs], [Vuex][vuex], [Java][java], [PHP][php]✨
-
-Feel free to reach me:
--✉️ anzhi.then@gmail.com
--💼 [linkedin][linkedin]
--🏡 [website][website]
--📷 [instagram][instagram]
+Frontend Developer at [Acronis][acronis] enjoys 🕸️ webbing up web applications. <br>
+-🔧 Building my developer [portfolio][website] <br>
+-👨‍💻 Learning [React][react] and [Redux][redux] <br>
+-✨Favourite Tech: [VueJS][vuejs], [Vuex][vuex], [Java][java], [PHP][php]✨ <br>
+<br>
+Feel free to reach me: <br>
+-✉️ anzhi.then@gmail.com <br>
+-💼 [linkedin][linkedin] <br>
+-🏡 [website][website] <br>
+-📷 [instagram][instagram] <br>
 
 [acronis]: https://acronis.com
 [react]: http://reactjs.org

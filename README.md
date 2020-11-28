@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! I am An Zhi!
 
 <!--
 **AnZhiThen/AnZhiThen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🏡 [website][website] **|** 
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
+
+[acronis]: https://acronis.com
+[react]: http://reactjs.org
+[website]: https://anzhi.then.com
+[instagram]: https://instagram.com/eddietaz

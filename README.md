@@ -16,7 +16,7 @@
 [acronis]: https://acronis.com
 [react]: http://reactjs.org
 [redux]: https://redux.js.org/
-[website]: https://anzhi.then.com
+[website]: https://anzhithen.com
 [instagram]: https://instagram.com/eddietaz
 [linkedin]: https://www.linkedin.com/in/then-an-zhi/
 [vuejs]: https://vuejs.org/

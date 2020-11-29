@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/anzhithen/anzhithen/main/Banner.png"/>
+<hr></hr>
 **Frontend Developer at [Acronis][acronis] who loves 🕸️ webbing web applications.** <br>
 🔧&nbsp; Building my developer [portfolio][website] <br>
 👨‍💻&nbsp; Learning [React][react] and [Redux][redux] <br>

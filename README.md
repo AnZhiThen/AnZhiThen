@@ -1,5 +1,6 @@
-<img src="https://raw.githubusercontent.com/anzhithen/anzhithen/main/Banner.png"/>
-<hr></hr>
+![alt text][banner]
+<br>
+<br>
 **Frontend Developer at [Acronis][acronis] who loves 🕸️ webbing web applications.** <br>
 🔧&nbsp; Building my developer [portfolio][website] <br>
 👨‍💻&nbsp; Learning [React][react] and [Redux][redux] <br>
@@ -22,3 +23,4 @@
 [vuex]: https://vuex.vuejs.org/
 [java]: https://www.java.com/
 [php]: https://www.php.net/
+[banner]: https://raw.githubusercontent.com/anzhithen/anzhithen/main/Banner.png "Here lies my banner"
